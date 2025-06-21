@@ -1,6 +1,6 @@
 ## Class Information
-- Name: [Your Name Here]  
-- Certification: [Your Certification Name Here]  
+- Name: Muhammad Abid  
+- Certification: Meta React Native  
 
 ## Instructions
 Please replace the placeholders with your details:
